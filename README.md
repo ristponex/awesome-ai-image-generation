@@ -79,8 +79,8 @@ One API key. 46 image models. Google, ByteDance, Black Forest Labs, Alibaba — 
 
 | Model | Provider | Type | Max Resolution | Speed | Edit | LoRA | Batch | API Price |
 |:------|:---------|:-----|:---------------|:------|:-----|:-----|:------|:----------|
-| **Nano Banana 2** | Google | T2I / Edit | 4K | ⚡⚡⚡ | ✅ | ❌ | ❌ | $0.072/req |
-| **Nano Banana 2 Dev** | Google | T2I / Edit | 4K | ⚡⚡⚡ | ✅ | ❌ | ❌ | $0.072/req |
+| **Nano Banana 2** | Google | T2I / Edit | 4K | ⚡⚡⚡ | ✅ | ❌ | ❌ | from $0.072/image |
+| **Nano Banana 2 Dev** | Google | T2I / Edit | 4K | ⚡⚡⚡ | ✅ | ❌ | ❌ | from $0.072/image |
 | **Nano Banana Pro** | Google | T2I / Edit | 4K | ⚡⚡ | ✅ | ❌ | ❌ | varies |
 | **Nano Banana** | Google | T2I / Edit | 2K | ⚡⚡ | ✅ | ❌ | ❌ | varies |
 | **Imagen4 Ultra** | Google | T2I | 4K | ⚡ | ❌ | ❌ | ❌ | higher |
@@ -121,7 +121,7 @@ One API key. 46 image models. Google, ByteDance, Black Forest Labs, Alibaba — 
 - 🎯 **14 reference images** — Best-in-class image editing and style transfer
 - ✍️ **Text rendering** — Accurate text placement in generated images
 - 🖼️ **4K output** — Ultra-high resolution output
-- 💰 **$0.072/request** — One of the cheapest premium models
+- 💰 **from $0.072/image** — One of the cheapest premium models
 
 **Variants:**
 | Variant | Best For | Editing | Speed |
@@ -408,15 +408,15 @@ Popular LoRA sources:
 | Use Case | Best Model | Why | Est. Price |
 |:---------|:-----------|:----|:-----------|
 | ⚡ Speed / Prototyping | **Flux Schnell** | Fastest generation, sub-second | Cheapest |
-| 📷 Photorealism | **Nano Banana 2** | Most realistic output, 4K | $0.072/req |
+| 📷 Photorealism | **Nano Banana 2** | Most realistic output, 4K | from $0.072/image |
 | 🏆 Highest Quality | **Imagen4 Ultra** | Best detail, museum quality | Higher |
 | 📦 Batch Generation | **Seedream v5.0** | 15 images per batch request | Varies |
 | 🎨 Custom Styles | **Flux Dev LoRA** | Thousands of community LoRAs | Varies |
-| ✏️ Image Editing | **Nano Banana 2 Edit** | 14 reference images support | $0.072/req |
+| ✏️ Image Editing | **Nano Banana 2 Edit** | 14 reference images support | from $0.072/image |
 | 💰 Budget | **Flux Schnell** | Lowest cost per image | Lowest |
 | 🔓 Uncensored / NSFW | **Flux Dev** (Atlas) | No content filters on Atlas | Varies |
 | 🇨🇳 Chinese Prompts | **Seedream v5.0** | Native bilingual support | Varies |
-| 📝 Text in Images | **Nano Banana 2** | Best text rendering accuracy | $0.072/req |
+| 📝 Text in Images | **Nano Banana 2** | Best text rendering accuracy | from $0.072/image |
 | 🏢 Enterprise | **Imagen4** | Google quality, reliable | Varies |
 | 🖼️ Concept Art | **Flux Dev** | Strong artistic composition | Varies |
 
@@ -1117,7 +1117,7 @@ It depends on your use case. For **photorealism**, **Nano Banana 2** and **Image
 
 ### What is the cheapest AI image API?
 
-**Flux Schnell** offers the lowest cost per image at approximately $0.003/image. For higher quality at great value, **Nano Banana 2** at $0.072/request delivers premium Google quality. Through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683), you get a **25% bonus on your first recharge** (up to $100), making it even more affordable.
+**Flux Schnell** offers the lowest cost per image at approximately $0.003/image. For higher quality at great value, **Nano Banana 2** at from $0.072/image delivers premium Google quality. Through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683), you get a **25% bonus on your first recharge** (up to $100), making it even more affordable.
 
 ### How do I generate AI images with an API?
 
