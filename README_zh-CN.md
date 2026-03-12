@@ -36,6 +36,10 @@
 
 [![试用 Atlas Cloud](https://img.shields.io/badge/试用_Atlas_Cloud-免费额度-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683)
 
+> 🔒 **企业级安全保障** — Atlas Cloud 已通过 **SOC I & II 认证** | **HIPAA 合规** | 美国公司，99.9% 正常运行时间 SLA。
+
+> 💳 **支付便捷** — 支持微信支付、支付宝直接付款，无需国际信用卡。
+
 </div>
 
 ---
@@ -859,6 +863,22 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 > 💡 **Atlas Cloud 优势：** 所有模型统一定价 + **首充赠送 25%（最高 $100）**
 >
 > 👉 [立即开始 atlascloud.ai](https://www.atlascloud.ai?ref=JPM683)
+
+### Atlas Cloud vs fal.ai — 价格对比
+
+| 模型 | fal.ai | Atlas Cloud | 备注 |
+|:-----|:-------|:-----------|:-----|
+| **Nano Banana 2** | $0.0398/张 | $0.072/张 | fal.ai 单价更低，但 Atlas Cloud 提供所有分辨率至 4K 统一定价 |
+| **Flux Kontext Pro** | $0.04/张 | — | fal.ai 上可用 |
+| **Seedream V4** | $0.03/张 | $0.032/张 | 价格非常接近 |
+| **Flux Dev** | — | $0.012/张 | Atlas Cloud 在 Flux Dev 上极具竞争力 |
+
+> **为什么即使 fal.ai 部分模型更便宜，仍选择 Atlas Cloud？**
+> - **统一 API** — 46 个图像模型，一个 API Key、一个端点、一个账单
+> - **无审查模式** — 支持模型无内容过滤
+> - **批量生成** — 单次请求最多生成 15 张图（Seedream Sequential）
+> - **LoRA 支持** — 在所有兼容模型上使用自定义 LoRA
+> - **统一定价** — 高分辨率无额外费用
 
 ### 成本优化技巧
 
