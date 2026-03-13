@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Models](https://img.shields.io/badge/이미지_모델-46-blue.svg)](https://www.atlascloud.ai?ref=JPM683)
+[![Models](https://img.shields.io/badge/이미지_모델-46-blue.svg)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Stars](https://img.shields.io/github/stars/atlascloud/awesome-ai-image-generation?style=social)](https://github.com/atlascloud/awesome-ai-image-generation)
 
@@ -28,13 +28,13 @@
 
 <div align="center">
 
-**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** — 모든 주요 AI 이미지 모델의 통합 API.
+**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)** — 모든 주요 AI 이미지 모델의 통합 API.
 
 하나의 API 키. 46개 이미지 모델. Google, ByteDance, Black Forest Labs, Alibaba — 모두 한곳에.
 
 🎁 **첫 충전 시 25% 보너스 (최대 $100)**
 
-[![Atlas Cloud 체험](https://img.shields.io/badge/Atlas_Cloud-무료_크레딧-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud 체험](https://img.shields.io/badge/Atlas_Cloud-무료_크레딧-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 > 🔒 **엔터프라이즈급 보안** — Atlas Cloud는 **SOC I & II 인증** | **HIPAA 준수** | 미국 기반 회사, 99.9% 가동 시간 SLA.
 
@@ -105,7 +105,7 @@
 | **Qwen-Image Edit Plus** | Alibaba | 편집 | 2K | ⚡⚡ | ✅ | ❌ | ❌ | 변동 |
 | **Z-Image Turbo** | Alibaba | T2I | 2K | ⚡⚡⚡ | ❌ | ❌ | ❌ | 변동 |
 
-> 💡 **46개 모델 모두 하나의 API로 사용 가능** — [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+> 💡 **46개 모델 모두 하나의 API로 사용 가능** — [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 ---
 
@@ -461,7 +461,7 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 })();
 ```
 
-> 📖 전체 API 문서: [Atlas Cloud Docs](https://www.atlascloud.ai?ref=JPM683)
+> 📖 전체 API 문서: [Atlas Cloud Docs](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 ---
 
@@ -761,7 +761,7 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 > 💡 **Atlas Cloud 장점:** 모든 모델 경쟁력 있는 가격 + **첫 충전 25% 보너스 (최대 $100)**
 >
-> 👉 [atlascloud.ai에서 시작하기](https://www.atlascloud.ai?ref=JPM683)
+> 👉 [atlascloud.ai에서 시작하기](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 ### Atlas Cloud vs fal.ai — 가격 비교
 
@@ -793,15 +793,15 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 ### 2026년 최고의 AI 이미지 생성 도구는?
 
-용도에 따라 다릅니다. **포토리얼리즘**은 **Nano Banana 2**와 **Imagen4 Ultra**. **속도와 비용**은 **Flux Schnell**. **배치 생성**은 **Seedream v5.0** (15장/배치). **커스텀 스타일**은 **Flux Dev LoRA**. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)에서 46개 모델 모두 하나의 API로 사용 가능.
+용도에 따라 다릅니다. **포토리얼리즘**은 **Nano Banana 2**와 **Imagen4 Ultra**. **속도와 비용**은 **Flux Schnell**. **배치 생성**은 **Seedream v5.0** (15장/배치). **커스텀 스타일**은 **Flux Dev LoRA**. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)에서 46개 모델 모두 하나의 API로 사용 가능.
 
 ### 가장 저렴한 AI 이미지 API는?
 
-**Flux Schnell**이 약 $0.003/장으로 최저가. 고품질 가성비는 **Nano Banana 2**가 $0.072/장부터. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)의 **첫 충전 25% 보너스** (최대 $100)로 더 저렴하게.
+**Flux Schnell**이 약 $0.003/장으로 최저가. 고품질 가성비는 **Nano Banana 2**가 $0.072/장부터. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)의 **첫 충전 25% 보너스** (최대 $100)로 더 저렴하게.
 
 ### API로 AI 이미지를 생성하려면?
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 같은 통합 API를 사용. 가입하고 API 키를 받은 후, 프롬프트와 모델을 포함한 HTTP 요청을 보내면 됩니다. 위의 [빠른 시작](#-빠른-시작--통합-api) 섹션 참조.
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) 같은 통합 API를 사용. 가입하고 API 키를 받은 후, 프롬프트와 모델을 포함한 HTTP 요청을 보내면 됩니다. 위의 [빠른 시작](#-빠른-시작--통합-api) 섹션 참조.
 
 ### Flux vs Nano Banana 2 vs Midjourney — 어떤 게 더 좋은가?
 
@@ -817,7 +817,7 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 ### NSFW 콘텐츠에 최적인 AI 이미지 모델은?
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)의 **Flux Dev**가 콘텐츠 필터 없이 무제한 생성 가능. 다른 제공업체 (Google, ByteDance, Alibaba)는 안전 필터 적용.
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)의 **Flux Dev**가 콘텐츠 필터 없이 무제한 생성 가능. 다른 제공업체 (Google, ByteDance, Alibaba)는 안전 필터 적용.
 
 ### 배치로 이미지 생성할 수 있나요?
 
@@ -848,7 +848,7 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 <br/>
 
-### 👉 [Atlas Cloud에서 생성 시작하기](https://www.atlascloud.ai?ref=JPM683)
+### 👉 [Atlas Cloud에서 생성 시작하기](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 *첫 충전 25% 보너스, 최대 $100*
 
@@ -897,6 +897,6 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 **AI 이미지 생성 커뮤니티가 ❤️으로 제작**
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) · [이슈 보고](../../issues) · [기능 요청](../../issues)
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) · [이슈 보고](../../issues) · [기능 요청](../../issues)
 
 </div>

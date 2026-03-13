@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Models](https://img.shields.io/badge/图片模型-46-blue.svg)](https://www.atlascloud.ai?ref=JPM683)
+[![Models](https://img.shields.io/badge/图片模型-46-blue.svg)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Stars](https://img.shields.io/github/stars/atlascloud/awesome-ai-image-generation?style=social)](https://github.com/atlascloud/awesome-ai-image-generation)
 
@@ -28,13 +28,13 @@
 
 <div align="center">
 
-**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** — 所有主流 AI 图片模型的统一 API。
+**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)** — 所有主流 AI 图片模型的统一 API。
 
 一个 API Key，46 个图片模型。Google、ByteDance、Black Forest Labs、阿里巴巴 — 全部集成。
 
 🎁 **首充赠送 25%（最高 $100）**
 
-[![试用 Atlas Cloud](https://img.shields.io/badge/试用_Atlas_Cloud-免费额度-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683)
+[![试用 Atlas Cloud](https://img.shields.io/badge/试用_Atlas_Cloud-免费额度-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 > 🔒 **企业级安全保障** — Atlas Cloud 已通过 **SOC I & II 认证** | **HIPAA 合规** | 美国公司，99.9% 正常运行时间 SLA。
 
@@ -108,7 +108,7 @@
 | **Qwen-Image 编辑 Plus** | 阿里巴巴 | 编辑 | 2K | ⚡⚡ | ✅ | ❌ | ❌ | 浮动 |
 | **Z-Image Turbo** | 阿里巴巴 | 文生图 | 2K | ⚡⚡⚡ | ❌ | ❌ | ❌ | 浮动 |
 
-> 💡 **全部 46 个模型通过一个 API 即可使用** — [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+> 💡 **全部 46 个模型通过一个 API 即可使用** — [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 ---
 
@@ -472,7 +472,7 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 })();
 ```
 
-> 📖 完整 API 文档：[Atlas Cloud Docs](https://www.atlascloud.ai?ref=JPM683)
+> 📖 完整 API 文档：[Atlas Cloud Docs](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 ---
 
@@ -838,7 +838,7 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 | 工具 | 描述 | 链接 |
 |:-----|:-----|:-----|
-| **Atlas Cloud API** | 46 个模型的统一 API | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) |
+| **Atlas Cloud API** | 46 个模型的统一 API | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) |
 | **ComfyUI API** | 无头工作流执行 | [文档](https://github.com/comfyanonymous/ComfyUI) |
 | **n8n** | 工作流自动化 | [n8n.io](https://n8n.io) |
 
@@ -862,7 +862,7 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 > 💡 **Atlas Cloud 优势：** 所有模型统一定价 + **首充赠送 25%（最高 $100）**
 >
-> 👉 [立即开始 atlascloud.ai](https://www.atlascloud.ai?ref=JPM683)
+> 👉 [立即开始 atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 ### Atlas Cloud vs fal.ai — 价格对比
 
@@ -894,15 +894,15 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 ### 2026 年最好的 AI 图片生成器是什么？
 
-取决于你的使用场景。**照片写实**选 **Nano Banana 2** 和 **Imagen4 Ultra**。**速度和成本**选 **Flux Schnell**。**批量生成**选 **Seedream v5.0** 的序列模式（每批 15 张）。**自定义风格**选 **Flux Dev LoRA**。[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 让你通过一个 API 使用全部 46 个模型。
+取决于你的使用场景。**照片写实**选 **Nano Banana 2** 和 **Imagen4 Ultra**。**速度和成本**选 **Flux Schnell**。**批量生成**选 **Seedream v5.0** 的序列模式（每批 15 张）。**自定义风格**选 **Flux Dev LoRA**。[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) 让你通过一个 API 使用全部 46 个模型。
 
 ### 最便宜的 AI 图片 API 是什么？
 
-**Flux Schnell** 提供最低的单图成本，约 $0.003/张。高质量高性价比选 **Nano Banana 2**，$0.072/张起。通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) **首充赠送 25%**（最高 $100），更加实惠。
+**Flux Schnell** 提供最低的单图成本，约 $0.003/张。高质量高性价比选 **Nano Banana 2**，$0.072/张起。通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) **首充赠送 25%**（最高 $100），更加实惠。
 
 ### 如何用 API 生成 AI 图片？
 
-使用 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 等统一 API。注册获取 API Key，然后发送包含提示词和模型选择的 HTTP 请求即可。参见上方[快速开始](#-快速开始--统一-api)部分的 cURL、Python 和 JavaScript 示例。
+使用 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) 等统一 API。注册获取 API Key，然后发送包含提示词和模型选择的 HTTP 请求即可。参见上方[快速开始](#-快速开始--统一-api)部分的 cURL、Python 和 JavaScript 示例。
 
 ### Flux vs Nano Banana 2 vs Midjourney — 哪个更好？
 
@@ -918,7 +918,7 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 ### 生成 NSFW 内容最好的 AI 图片模型是什么？
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 上的 **Flux Dev** 提供无限制生成，没有内容过滤。大多数其他提供商（Google、字节跳动、阿里巴巴）会应用安全过滤器。
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) 上的 **Flux Dev** 提供无限制生成，没有内容过滤。大多数其他提供商（Google、字节跳动、阿里巴巴）会应用安全过滤器。
 
 ### 可以批量生成图片吗？
 
@@ -953,7 +953,7 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 <br/>
 
-### 👉 [立即开始使用 Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+### 👉 [立即开始使用 Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 *首充赠送 25%，最高 $100*
 
@@ -1002,6 +1002,6 @@ async function generateImage(prompt, model = "nano-banana-2", size = "1024x1024"
 
 **由 AI 图片生成社区用 ❤️ 打造**
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) · [反馈问题](../../issues) · [功能建议](../../issues)
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) · [反馈问题](../../issues) · [功能建议](../../issues)
 
 </div>

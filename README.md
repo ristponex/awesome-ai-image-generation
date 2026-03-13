@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Models](https://img.shields.io/badge/Image_Models-46-blue.svg)](https://www.atlascloud.ai?ref=JPM683)
+[![Models](https://img.shields.io/badge/Image_Models-46-blue.svg)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Stars](https://img.shields.io/github/stars/atlascloud/awesome-ai-image-generation?style=social)](https://github.com/atlascloud/awesome-ai-image-generation)
 
@@ -28,13 +28,13 @@ Covering **Google Nano Banana 2 · Imagen4 · ByteDance Seedream · Flux · Wan 
 
 <div align="center">
 
-**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** — Unified API for every major AI image model.
+**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)** — Unified API for every major AI image model.
 
 One API key. 46 image models. Google, ByteDance, Black Forest Labs, Alibaba — all in one place.
 
 🎁 **25% bonus on first recharge (up to $100)**
 
-[![Try Atlas Cloud](https://img.shields.io/badge/Try_Atlas_Cloud-Free_Credits-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683)
+[![Try Atlas Cloud](https://img.shields.io/badge/Try_Atlas_Cloud-Free_Credits-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 > 🔒 **Enterprise-Grade Security** — Atlas Cloud is **SOC I & II Certified** | **HIPAA Compliant** | US-based company with 99.9% uptime SLA.
 
@@ -106,7 +106,7 @@ One API key. 46 image models. Google, ByteDance, Black Forest Labs, Alibaba — 
 | **Qwen-Image Edit Plus** | Alibaba | Edit | 2K | ⚡⚡ | ✅ | ❌ | ❌ | varies |
 | **Z-Image Turbo** | Alibaba | T2I | 2K | ⚡⚡⚡ | ❌ | ❌ | ❌ | varies |
 
-> 💡 **All 46 models available through a single API** — [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+> 💡 **All 46 models available through a single API** — [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 ---
 
@@ -584,7 +584,7 @@ result = edit_image(
 )
 ```
 
-> 📖 Full API documentation: [Atlas Cloud Docs](https://www.atlascloud.ai?ref=JPM683)
+> 📖 Full API documentation: [Atlas Cloud Docs](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 ---
 
@@ -1057,7 +1057,7 @@ volumetric rendering, ray tracing, subsurface scattering
 
 | Tool | Description | Link |
 |:-----|:------------|:-----|
-| **Atlas Cloud API** | Unified API for 46 models with batch support | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) |
+| **Atlas Cloud API** | Unified API for 46 models with batch support | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) |
 | **ComfyUI API** | Headless workflow execution | [Docs](https://github.com/comfyanonymous/ComfyUI) |
 | **n8n** | Workflow automation with AI nodes | [n8n.io](https://n8n.io) |
 
@@ -1081,7 +1081,7 @@ volumetric rendering, ray tracing, subsurface scattering
 
 > 💡 **Atlas Cloud Advantage:** All models at competitive rates + **25% bonus on first recharge (up to $100)**.
 >
-> 👉 [Get started at atlascloud.ai](https://www.atlascloud.ai?ref=JPM683)
+> 👉 [Get started at atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 ### Atlas Cloud vs fal.ai — Price Comparison
 
@@ -1113,15 +1113,15 @@ volumetric rendering, ray tracing, subsurface scattering
 
 ### What is the best AI image generator in 2026?
 
-It depends on your use case. For **photorealism**, **Nano Banana 2** and **Imagen4 Ultra** lead the pack. For **speed and cost**, **Flux Schnell** is unmatched. For **batch generation**, **Seedream v5.0** with sequential mode (15 images/batch) is ideal. For **custom styles**, **Flux Dev LoRA** with its vast community ecosystem offers the most flexibility. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) gives you access to all 46 models through one API.
+It depends on your use case. For **photorealism**, **Nano Banana 2** and **Imagen4 Ultra** lead the pack. For **speed and cost**, **Flux Schnell** is unmatched. For **batch generation**, **Seedream v5.0** with sequential mode (15 images/batch) is ideal. For **custom styles**, **Flux Dev LoRA** with its vast community ecosystem offers the most flexibility. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) gives you access to all 46 models through one API.
 
 ### What is the cheapest AI image API?
 
-**Flux Schnell** offers the lowest cost per image at approximately $0.003/image. For higher quality at great value, **Nano Banana 2** at from $0.072/image delivers premium Google quality. Through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683), you get a **25% bonus on your first recharge** (up to $100), making it even more affordable.
+**Flux Schnell** offers the lowest cost per image at approximately $0.003/image. For higher quality at great value, **Nano Banana 2** at from $0.072/image delivers premium Google quality. Through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation), you get a **25% bonus on your first recharge** (up to $100), making it even more affordable.
 
 ### How do I generate AI images with an API?
 
-Use a unified API like [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) that supports all major models. Sign up, get an API key, and make a simple HTTP request with your prompt and model choice. See the [Quick Start](#-quick-start--unified-api) section above for cURL, Python, and JavaScript examples.
+Use a unified API like [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) that supports all major models. Sign up, get an API key, and make a simple HTTP request with your prompt and model choice. See the [Quick Start](#-quick-start--unified-api) section above for cURL, Python, and JavaScript examples.
 
 ### Flux vs Nano Banana 2 vs Midjourney — which is better?
 
@@ -1139,11 +1139,11 @@ Use a unified API like [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) that 
 
 ### What is the best AI image model for NSFW content?
 
-**Flux Dev** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) offers unrestricted generation without content filters. Most other providers (Google, ByteDance, Alibaba) apply safety filters. Atlas Cloud provides full creative freedom across supported models.
+**Flux Dev** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) offers unrestricted generation without content filters. Most other providers (Google, ByteDance, Alibaba) apply safety filters. Atlas Cloud provides full creative freedom across supported models.
 
 ### Can I generate images in batch?
 
-Yes! **Seedream v5.0** (and v4.5, v4) supports **sequential mode** — generating up to **15 images per API request**. This is perfect for product variations, A/B testing, and content creation at scale. Available via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683).
+Yes! **Seedream v5.0** (and v4.5, v4) supports **sequential mode** — generating up to **15 images per API request**. This is perfect for product variations, A/B testing, and content creation at scale. Available via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation).
 
 ### Which model has the best text rendering in images?
 
@@ -1174,7 +1174,7 @@ All through a single, unified API.
 
 <br/>
 
-### 👉 [Start Generating on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+### 👉 [Start Generating on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation)
 
 *25% bonus on first recharge, up to $100*
 
@@ -1223,6 +1223,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Made with ❤️ by the AI image generation community**
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) · [Report Issue](../../issues) · [Request Feature](../../issues)
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-ai-image-generation) · [Report Issue](../../issues) · [Request Feature](../../issues)
 
 </div>
